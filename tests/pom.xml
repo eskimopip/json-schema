@@ -70,7 +70,7 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-servlet</artifactId>
-            <version>9.3.4.RC0</version>
+            <version>9.4.52.v20230823</version>
         </dependency>
     </dependencies>
 </project>
